@@ -3,7 +3,7 @@
 ### Unity (C#) | Personal Project | 2024-2025
 
 ## 📌 Overview  
-This is a third-person horror game prototype built in Unity, focusing on responsive gameplay, AI-driven enemies, and optimized systems for smooth performance. The project leverages custom-built mechanics for movement and fixed cameras to deliver a polished experience.  
+This is a third-person horror game prototype built in Unity, focusing on responsive gameplay, AI-driven enemies, and optimized systems for smooth performance. The project leverages custom-built mechanics for movement and fixed cameras.
 
 ## 🎮 Features  
 

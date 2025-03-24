@@ -42,7 +42,3 @@ This is a third-person horror game prototype built in Unity, focusing on respons
 - Expanding the weapon system with additional firearms and melee combat.  
 - Refining the UI and HUD for an improved player experience.
 - Keyboard controls.
-
----
-
-This README clearly presents your contributions while keeping it engaging for potential employers or collaborators. Let me know if you’d like any refinements! 🚀

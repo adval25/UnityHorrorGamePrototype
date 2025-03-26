@@ -21,7 +21,7 @@ This is a third-person horror game prototype built in Unity, focusing on respons
 
 ### 🔹 Persistence & Optimization  
 - **JSON-Based Save System** – Created a **serialization system** for storing position data (Vector3, Quaternion) and enemy attributes, ensuring persistent world states.  
-- **Animation Retargeting & Optimization** – Improved animation blending using **animation layers**, reducing glitches by **40%** and ensuring seamless character transitions.  
+- **Animation Retargeting & Optimization** – Improved animation blending using **animation layers** for seamless character animation transitions.  
 
 ## 🛠️ Technologies Used  
 - Unity (C#)  

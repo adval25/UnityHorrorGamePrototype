@@ -3,7 +3,7 @@
 ### Unity (C#) | Personal Project | 2024-2025
 
 ## 📌 Overview  
-This is a third-person horror game prototype built in Unity, focusing on responsive gameplay, AI-driven enemies, and optimized systems for smooth performance. The project leverages custom-built mechanics for movement and fixed cameras.
+This is a third-person horror game prototype built in Unity, focusing on responsive gameplay and optimized graphical performace by importing models with baked lighting. The project leverages custom-built mechanics for movement and fixed cameras.
 
 ## 🎮 Features  
 
@@ -21,24 +21,25 @@ This is a third-person horror game prototype built in Unity, focusing on respons
 
 ### 🔹 Persistence & Optimization  
 - **JSON-Based Save System** – Created a **serialization system** for storing position data (Vector3, Quaternion) and enemy attributes, ensuring persistent world states.  
-- **Animation Retargeting & Optimization** – Improved animation blending using **animation layers**, reducing glitches by **40%** and ensuring seamless character transitions.  
+- **Animation Retargeting & Optimization** – Improved animation blending using **animation layers** for seamless character animation transitions.  
 
 ## 🛠️ Technologies Used  
 - Unity (C#)  
 - Unity NavMesh  
-- Unity Input System  
+- Unity Input System
+- Unity Cinemachine
 - JSON Serialization  
 - Animation Layers & Retargeting  
 
 ## 🚀 How to Play  
 1. Download and extract the build files.  
-2. Run `MyHorrorGame.exe`
+2. Run `HorrorGameDemo.exe`
 3. As of now only supports gamepad. Keyboard controls are yet to be intergated. Press alt-F4 to exit demo.
   - Controls:
   - Left JS - Move, Y - Menu, RB - Run, LB - Aim, A - Action/Fire, X - Reload (While Aiming)  
 
 ## 📜 Future Improvements  
-- Implementing advanced enemy AI behaviors (flanking, group tactics).  
+- Implementing advanced enemy AI behaviors.  
 - Expanding the weapon system with additional firearms and melee combat.  
 - Refining the UI and HUD for an improved player experience.
 - Keyboard controls.

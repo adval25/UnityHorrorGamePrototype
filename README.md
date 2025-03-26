@@ -13,10 +13,10 @@ This is a third-person horror game prototype built in Unity, focusing on respons
 - **Collision-Aware Camera System** – Developed a dynamic camera that adjusts based on environmental obstacles to maintain clear player visibility.  
 
 ### 🔹 AI & Combat  
-- **AI-Driven Enemies** – Integrated **Unity’s NavMesh** for pathfinding, enabling enemies to navigate dynamically and transition smoothly between attack states for realistic combat behavior.  
+- **AI-Driven Enemies** – Integrated **Unity’s NavMesh** for pathfinding, enabling enemies to navigate dynamically and transition smoothly between attacks and other behavior.  
 
 ### 🔹 Input & Interaction  
-- **Unity’s Latest Input System** – Added **controller support** with rebindable controls for a flexible and accessible player experience.  
+- **Unity’s Latest Input System** – Supports both keyboard and **controller input**.
 - **Scalable Inventory System** – Designed a **list-based** inventory system that supports dynamic item additions while improving data retrieval speeds.  
 
 ### 🔹 Persistence & Optimization  
@@ -29,14 +29,13 @@ This is a third-person horror game prototype built in Unity, focusing on respons
 - Unity Input System
 - Unity Cinemachine
 - JSON Serialization  
-- Animation Layers & Retargeting  
+- Animation Layers & Retargeting
+- Blender
 
 ## 🚀 How to Play  
 1. Download and extract the build files.  
 2. Run `HorrorGameDemo.exe`
-3. As of now only supports gamepad. Keyboard controls are yet to be intergated. Press alt-F4 to exit demo.
-  - Controls:
-  - Left JS - Move, Y - Menu, RB - Run, LB - Aim, A - Action/Fire, X - Reload (While Aiming)  
+3. After launching game, press 'M' on keyboard to display controls. Press alt-F4 to exit demo.
 
 ## 📜 Future Improvements  
 - Implementing advanced enemy AI behaviors.  
